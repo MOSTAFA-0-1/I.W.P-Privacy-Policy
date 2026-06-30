@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-IWP ("the App," "we," "us," or "our") is a task-based lifestyle management application designed for women, helping users organize and manage daily tasks and personal goals through AI-assisted planning. This Privacy Policy explains how we collect, use, store, and protect your information when you use IWP.
+IWP is a task-based lifestyle management application designed for women, helping users organize and manage daily tasks and personal goals through AI-assisted planning. This Privacy Policy explains how we collect, use, store, and protect your information when you use IWP.
 
 By using IWP, you agree to the collection and use of information in accordance with this policy.
 
